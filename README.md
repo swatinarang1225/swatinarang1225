@@ -1,6 +1,6 @@
 👋 Hi there! Welcome to my GitHub profile. I'm Swati Narang, a Senior Associate Consultant with a passion for data-driven solutions and technology innovation. Let's connect and explore the world of coding together!
 
-![image title](https://profile-counter.glitch.me/swatinarang/count.svg)
+![image title](https://swatinarang1225/counter.svg)
 
 
 🌐 **Connect with Me:**
